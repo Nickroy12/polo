@@ -1,0 +1,297 @@
+
+#omo {
+	margin: 0px 292px;
+}
+#omg{
+	margin: 0px 393px;
+}
+#dom{
+	margin: 0px -96px;
+	width: 106px;
+
+}
+.btn-outline-primary {
+	color: #0d6efd;
+	border-color: #0d6efd;
+	position: relative;
+	left: -49px;
+	top: -69px;
+}
+
+.int {
+	margin: 50px 0px;
+}
+.fa-cloud::before {
+	content: "\f0c2";
+	font-size: 26px;
+}
+.int h5 {
+	margin: 0px 12px;
+}
+.int a{
+	color:black;
+}
+.fa-lightbulb::before {
+	content: "\f0eb";
+	font-size: 29px;
+}
+.int p {
+	font-size: 17px;
+	padding: 12px 55px;
+	position: relative;
+	right: 46px;
+}
+.fa-trophy::before {
+	content: "\f091";
+	
+	font-size: 22px;
+}
+.fa-trophy::before {
+	content: "\f091";
+
+	font-size: 30px;
+}	
+.fa-thumbs-up::before {
+	content: "\f0c2";
+
+	font-size: 26px;
+}
+.inr h5 {
+	margin: 0px 12px;
+}
+.inr a{
+	color:black;
+}
+.fa-lightbulb::before {
+	content: "\f0eb";
+	font-size: 29px;
+}
+.inr p {
+	font-size: 17px;
+	padding: 12px 55px;
+	position: relative;
+	right: 46px;
+}
+.fa-trophy::before {
+	content: "\f091";
+	
+	font-size: 22px;
+}
+.fa-trophy::before {
+	content: "\f091";
+	font-size: 30px;
+}
+.hyp {
+	background: #b766661a;
+	height: 200px;
+}
+.hyp h4 {
+	font-size: 1.5rem;
+	text-align: center;
+	margin: 16px 0px;
+	position: relative;
+	top: 38px;
+}
+
+.cyu{
+
+	position: relative;
+	left: 502px;
+	top: 49px;
+	width: 115px;
+	height: 40px;
+	background: blue;
+	border: none;
+	border-radius:10px;
+}
+.say {
+	border-radius: 14px;
+}
+.non {
+	margin: 50px 0px;
+}
+.moy{
+	margin: 28px 0px;
+}
+.byu {
+	height: 915px;
+}
+.byu h1 {
+	text-align: center;
+}
+hr:not([size]) {
+	height: 2px;
+}
+.byu hr {
+	height: 3px;
+	width: 150px;
+	margin: 10px 493px;
+	color: blue;
+}
+.byu h5{
+	text-align: center;
+}
+ul{
+	margin:0px;
+	padding:0px;
+}
+ul li{
+	list-style:none;
+	float:left;
+}
+
+#eo {
+	position: relative;
+	left: 23px;
+}
+#qo {
+	position: relative;
+	left: 44px;
+}
+#dz {
+	position: relative;
+	left: 59px;
+}
+#dj {
+	position: relative;
+	left: 92px;
+}#fo {
+	position: relative;
+	left: 23px;
+}
+#lo {
+	position: relative;
+	left: 44px;
+}
+#az {
+	position: relative;
+	left: 59px;
+}
+#dl {
+	position: relative;
+	left: 92px;
+}
+#ch {
+	margin: 78px 91px;
+}
+.gallery{
+	background: #d5a3a31f;
+}
+#hol {
+background: white;
+width: 320px;
+margin: 41px 25px;
+}
+.ge {
+	width:  318px;
+	margin: 0px -11px;
+	height: 205px;
+}
+#hol h3 {
+	font-size: 23px;
+}
+#hol h6 {
+	padding: 31px 21px;
+	position: relative;
+	right: 17px;
+	top: -26px;
+}
+#hol h4  {
+	font-size: 15px;
+	position: relative;
+	left: 12px;
+	top: -9px;
+}
+#jn {
+background: white;
+width: 320px;
+margin: 41px 25px;
+}
+.jm {
+	width: 318px;
+	margin: 0px -11px;
+	height: 205px;
+}
+#jn h3 {
+	font-size: 23px;
+}
+#jn h6 {
+	padding: 31px 21px;
+	position: relative;
+	right: 17px;
+	top: -26px;
+}
+#jn h4  {
+	font-size: 15px;
+	position: relative;
+	left: 12px;
+	top: -9px;
+}
+#dv {
+background: white;
+width: 320px;
+margin: 41px 25px;
+}
+.gc {
+	width:  318px;
+	margin: 0px -11px;
+	height: 205px;
+}
+#dv h3 {
+	font-size: 23px;
+}
+#dv h6 {
+	padding: 31px 21px;
+	position: relative;
+	right: 17px;
+	top: -26px;
+}
+#dv h4  {
+	font-size: 15px;
+	position: relative;
+	left: 12px;
+	top: -9px;
+}
+.gallery h1 {
+	text-align: center;
+	margin: 48px 0px;
+	position: relative;
+	top: 31px;
+}
+.gallery h5 {
+	text-align: center;
+}
+.fotter h5 {
+	position: relative;
+	left: 13px;
+	top: 121px;
+}
+.fotter h6 {
+	margin: 42px -18px;
+	position: relative;
+	left: 26px;
+	top: 117px;
+}
+
+.cyu {
+	text-transform: none;
+	width: 127px;
+	position: relative;
+	margin: 81px -503px;
+	border-radius: 11px;
+}
+#dvf {
+	margin: 12px 12px;
+}
+.pqp {
+	margin: 145px 35px;
+	position: relative;
+	left: -28px;
+}
+.pqp li {
+	list-style: none;
+}
+.pqp li a {
+	color: #5f6266;
+	text-decoration: none;
+}
